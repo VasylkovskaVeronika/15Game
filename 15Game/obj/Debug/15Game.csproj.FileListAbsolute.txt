@@ -1,0 +1,11 @@
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\bin\Debug\15Game.exe.config
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\bin\Debug\15Game.exe
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\bin\Debug\15Game.pdb
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\obj\Debug\15Game.csprojAssemblyReference.cache
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\obj\Debug\_15Game.DataNavigator.resources
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\obj\Debug\_15Game.Properties.Resources.resources
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\obj\Debug\15Game.csproj.GenerateResource.cache
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\obj\Debug\15Game.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\obj\Debug\15Game.exe
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\obj\Debug\15Game.pdb
+C:\Users\HUAWEI\3D Objects\WinForms Practice\15Game\15Game\obj\Debug\_15Game.Form1.resources
